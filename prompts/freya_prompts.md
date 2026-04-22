@@ -169,6 +169,36 @@ Freya, 22 year old danish woman, long blonde hair loose in wind, blue-grey eyes,
 
 ---
 
+## Revealing / Engaging Prompts
+*(use sparingly — max 1 in every 6-7 posts)*
+
+### Pool / bikini
+```
+Freya, 22 year old danish woman, long blonde hair up in bun, blue-grey eyes, fair skin, athletic toned build, in swimming pool wearing black string bikini, wet skin, natural water reflections, warm or moody light, confident relaxed pose, photorealistic
+```
+
+### Spa / hot tub winter
+```
+Freya, 22 year old danish woman, long blonde hair up, blue-grey eyes, fair skin, athletic toned build, in indoor pool or hot tub, black bikini, large windows with snowy landscape outside, atmospheric moody light, high-end setting, photorealistic
+```
+
+### Beach bikini
+```
+Freya, 22 year old danish woman, long blonde hair loose in wind, blue-grey eyes, fair skin, athletic toned build, on beach in minimal black bikini, golden hour light, waves in background, natural relaxed pose, shot from slight distance, photorealistic
+```
+
+### Bedroom / morning
+```
+Freya, 22 year old danish woman, long blonde hair messy, blue-grey eyes, fair skin, athletic toned build, sitting on bed in morning, oversized white t-shirt, soft natural window light, relaxed intimate mood, candid feel, photorealistic
+```
+
+### Polaroid intimate
+```
+Freya, 22 year old danish woman, long blonde hair, blue-grey eyes, fair skin, athletic toned build, polaroid photo held in hand, casual intimate home setting, black crop top and underwear, warm dim light, slightly grainy film look, photorealistic
+```
+
+---
+
 ## Polaroid / Film Style Prompts
 
 ### Polaroid format

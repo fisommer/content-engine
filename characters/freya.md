@@ -25,8 +25,9 @@
 2. **Pilates** — studio and mat content, flexibility, control
 3. **Running + outdoor** — morning runs, trail shots, city runs at golden hour
 4. **Cycling** — road and outdoor rides, scenic backgrounds
-5. **Lifestyle** — post-workout meals, recovery, morning routines
+5. **Lifestyle** — post-workout meals, recovery, morning routines, travel, transit, cozy evenings
 6. **Motivational** — short captions, progress not perfection, mindset
+7. **Revealing / engaging** — occasional bikini, pool, or more intimate shots. Reward content for followers. Max 1 in every 6-7 posts — keeps it tasteful and drives engagement without defining the account
 
 ## Tone of Voice
 - Captions are short, punchy, lowercase friendly
@@ -43,11 +44,13 @@
 - Daily stories (once audience builds)
 
 ## Image Gen Style Guide
-- **Lighting:** natural light preferred, golden hour, bright studio
-- **Settings:** gym interior, outdoor trails, pilates studio, urban streets, park
+- **Lighting:** natural light preferred, golden hour, bright studio, moody indoor for intimate shots
+- **Settings:** gym interior, outdoor trails, pilates studio, urban streets, park, pool, travel locations, home/bedroom
 - **Camera style:** slightly candid, not overly posed — lifestyle feel
+- **Angles:** vary every shoot — front, back, side profile, low angle, selfie, over shoulder
 - **Colors:** clean, slightly warm tones, consistent nordic palette
-- **No:** heavy filters, dark moody tones, overly sexual poses (keep it fitness-focused)
+- **Content ratio:** ~70% fitness/sport, ~20% lifestyle/travel, ~10% revealing/intimate
+- **No:** heavy filters, cheap-looking poses, anything that looks explicitly sexual — keep it aspirational
 
 ## LoRA Training Notes
 - Train on 20-30 images with consistent face + build
