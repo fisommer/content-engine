@@ -1,0 +1,40 @@
+# Environment & secrets
+.env
+*.env
+.env.*
+
+# Generated images & videos (stored in Google Drive instead)
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.mov
+*.gif
+*.webp
+
+# Model weights (too large for git)
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.bin
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# ComfyUI output folders
+output/
+input/
+temp/
+
+# Logs
+*.log
+logs/
