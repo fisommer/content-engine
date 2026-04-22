@@ -97,9 +97,98 @@ Freya, 22 year old danish woman, long blonde hair loose in wind, blue-grey eyes,
 
 ---
 
+## Lifestyle / Relatable Prompts
+
+### Train / transit
+```
+Freya, 22 year old danish woman, long blonde hair loose, blue-grey eyes, fair skin, athletic toned build, sitting by train window, legs up on seat, white crop top and grey sweatpants, casual relaxed pose, daytime light through window, candid travel photo, photorealistic
+```
+
+### Night balcony selfie
+```
+Freya, 22 year old danish woman, long blonde hair loose, blue-grey eyes, fair skin, athletic toned build, sitting on apartment balcony at night, cozy jacket and linen pants, warm string lights in background, holding tea mug, close-up selfie angle, intimate cozy mood, photorealistic
+```
+
+### Kitchen / late night snack
+```
+Freya, 22 year old danish woman, long blonde hair loose, blue-grey eyes, fair skin, athletic toned build, sitting on kitchen counter at night, wearing black bodysuit, laughing naturally, warm pendant lighting, casual intimate home setting, candid lifestyle photo, photorealistic
+```
+
+### Bedroom mirror selfie
+```
+Freya, 22 year old danish woman, long blonde hair up loosely, blue-grey eyes, fair skin, athletic toned build, crouching taking mirror selfie in bedroom, white cami top and jeans, gold jewelry, natural daylight, messy room in background, candid intimate selfie, photorealistic
+```
+
+---
+
+## Angle / Perspective Prompts
+
+### From behind
+```
+Freya, 22 year old danish woman, long blonde hair down, fair skin, athletic toned build, walking away from camera on forest trail, wearing black sports bra and leggings, dappled natural light, candid back shot, photorealistic
+```
+
+### Low angle / full body
+```
+Freya, 22 year old danish woman, long blonde hair, blue-grey eyes, fair skin, athletic toned build, standing on city street, low angle shot looking up, casual outfit, urban background, confident pose, photorealistic
+```
+
+### Side profile
+```
+Freya, 22 year old danish woman, long blonde hair, blue-grey eyes, fair skin, athletic toned build, side profile portrait, looking away into distance, golden hour light, soft natural background, photorealistic
+```
+
+### Over the shoulder
+```
+Freya, 22 year old danish woman, long blonde hair, blue-grey eyes, fair skin, athletic toned build, looking back over shoulder at camera, slight smile, outdoor setting, warm light, candid feel, photorealistic
+```
+
+---
+
+## Travel / Aspirational Prompts
+
+### Indoor pool / spa
+```
+Freya, 22 year old danish woman, long blonde hair up in bun, blue-grey eyes, fair skin, athletic toned build, in indoor swimming pool, black bikini, large windows showing snowy winter forest outside, moody atmospheric light, high-end spa setting, photorealistic
+```
+
+### Scenic viewpoint
+```
+Freya, 22 year old danish woman, long blonde hair loose in wind, blue-grey eyes, fair skin, athletic toned build, standing at scenic mountain or coastal viewpoint, small figure in large landscape, golden hour, travel photo, photorealistic
+```
+
+### European city street
+```
+Freya, 22 year old danish woman, long blonde hair, blue-grey eyes, fair skin, athletic toned build, walking on cobblestone street in European city, casual chic outfit, warm afternoon light, candid street photography style, photorealistic
+```
+
+### Beach / coastal
+```
+Freya, 22 year old danish woman, long blonde hair loose in wind, blue-grey eyes, fair skin, athletic toned build, standing on beach at golden hour, oversized linen shirt, barefoot, looking out at ocean, back to camera or side profile, photorealistic
+```
+
+---
+
+## Polaroid / Film Style Prompts
+
+### Polaroid format
+```
+Freya, 22 year old danish woman, long blonde hair, blue-grey eyes, fair skin, athletic toned build, photo printed as polaroid held in hand, casual bedroom setting, intimate candid mood, slight film grain, warm tones, photorealistic
+```
+
+### Film grain / analog
+```
+Freya, 22 year old danish woman, long blonde hair, blue-grey eyes, fair skin, athletic toned build, candid outdoor photo, analog film aesthetic, slight grain, warm faded tones, natural light, lifestyle photography, photorealistic
+```
+
+---
+
 ## Style Notes
 - Always end prompts with `photorealistic` or `photorealistic, 4k`
 - For Flux schnell: keep prompts concise (under 100 words works best)
 - For fal.ai: can use longer, more detailed prompts
 - Golden hour and natural light consistently produce the best results
-- Avoid words like "sexy", "seductive" in early content — keep fitness-focused
+- Mix angles every session: front, back, side, low, high, selfie — never all the same
+- Mundane/relatable shots (train, balcony, kitchen) perform as well as polished ones
+- Landscape-dominant shots (small figure, big scenery) add premium travel feel
+- Back shots are easier for AI consistency — use them regularly
