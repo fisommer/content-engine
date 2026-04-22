@@ -199,6 +199,75 @@ Freya, 22 year old danish woman, long blonde hair, blue-grey eyes, fair skin, at
 
 ---
 
+## Authenticity / "Real Life" Prompts
+*(critical for not looking AI — use regularly throughout content mix)*
+
+### Friends from behind
+```
+three young women from behind, walking on city street, one is Freya with long blonde hair fair skin athletic build, friends beside her with different hair colors, casual outfits, warm afternoon light, candid friend group photo, none facing camera, photorealistic
+```
+
+### Friends from behind — nature
+```
+three young women from behind, sitting on rocks overlooking fjord or lake, one with long blonde hair, friends beside her, casual outdoor clothing, golden hour light, candid moment, backs to camera, photorealistic
+```
+
+### Hands only — coffee
+```
+close up of two hands with manicured nails holding white ceramic coffee cup, cozy cafe table background, warm light, minimal jewelry, clean aesthetic, no face, photorealistic
+```
+
+### Hands only — nails fresh
+```
+extreme close up of manicured hands, fresh gel nails in nude or soft pink, resting on light surface or holding phone, clean minimal background, natural light, photorealistic
+```
+
+### Hands only — nails seasonal
+```
+close up of hands with seasonal nail color (deep red for winter, coral for summer, sage green for spring), holding something relevant (book, smoothie, coffee), natural light, lifestyle feel, photorealistic
+```
+
+### Hands / props — smoothie or drink
+```
+close up of hand with manicured nails holding colorful smoothie or iced drink, outdoor or cafe background blurred, summer light, casual lifestyle, photorealistic
+```
+
+### Specific location — Copenhagen
+```
+Freya, 22 year old danish woman, long blonde hair, blue-grey eyes, fair skin, athletic toned build, walking on Nyhavn waterfront Copenhagen, colorful buildings in background, casual outfit, tourist but local energy, candid street photo, photorealistic
+```
+
+### Specific location — cafe window
+```
+Freya, 22 year old danish woman, long blonde hair, blue-grey eyes, fair skin, athletic toned build, sitting at cafe window table, specific brick building visible outside, latte on table, reading or on phone, candid lifestyle photo, photorealistic
+```
+
+### Intentionally imperfect — motion blur
+```
+Freya, 22 year old danish woman, long blonde hair, blue-grey eyes, fair skin, athletic toned build, walking or laughing, slight motion blur, candid snap feel, slightly overexposed, real phone camera aesthetic, photorealistic
+```
+
+### Intentionally imperfect — looking away
+```
+Freya, 22 year old danish woman, long blonde hair, blue-grey eyes, fair skin, athletic toned build, caught off guard looking away from camera, laughing or distracted, outdoor setting, natural light, candid unposed feel, photorealistic
+```
+
+### Photo booth strip
+```
+black and white photo booth strip, four frames, Freya with long blonde hair and one friend, laughing and making faces, classic photo booth aesthetic, high contrast black and white, photorealistic
+```
+
+### Object / detail only — no person
+```
+close up of running shoes on wooden floor next to gym bag, morning light, lifestyle flat lay, no person visible, photorealistic
+```
+
+```
+close up of coffee cup and open book on cafe table, soft morning light, cozy atmosphere, no person, lifestyle detail shot, photorealistic
+```
+
+---
+
 ## Polaroid / Film Style Prompts
 
 ### Polaroid format

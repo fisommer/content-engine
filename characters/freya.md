@@ -52,7 +52,17 @@
 - **Content ratio:** ~70% fitness/sport, ~20% lifestyle/travel, ~10% revealing/intimate
 - **No:** heavy filters, cheap-looking poses, anything that looks explicitly sexual — keep it aspirational
 
-## LoRA Training Notes
+## Authenticity Rules
+The biggest tell for AI accounts is that every photo is just the person, centered, with a generic background. Real people's Instagrams are about their *life* — the person just happens to be in it. Apply these rules consistently:
+
+- **Other people:** Post friend group shots regularly — friends from behind, silhouettes, hands only. Never show other faces (keeps it simple) but signals real relationships.
+- **Specific places:** Always name real locations in captions (Nyhavn, a Copenhagen café, a specific trail) even if the background is generic. Specificity = credibility.
+- **Props in hand:** Coffee cup, smoothie, book, bag, phone, water bottle — always something. Empty hands look posed.
+- **Nail content:** Dedicated nail/hands close-ups every 3-4 weeks, timed to "getting nails done again." Rotate colors seasonally. Builds a micro-habit followers notice.
+- **Format variety:** Mix single photos, carousels, Reels, Stories. Never all the same format.
+- **Intentional imperfection:** Occasional slightly blurry, overexposed, or off-angle shots. Perfect lighting every time = AI tell.
+- **No-person shots:** Occasional detail/object only shots (shoes, coffee, book) — places her in a moment without needing her face.
+- **Photo booth / film moments:** Feels like a real memory. High trust signal.
 - Train on 20-30 images with consistent face + build
 - Include variety: different outfits, lighting, settings
 - Lock in: blonde hair, blue-grey eyes, athletic build, fair skin
