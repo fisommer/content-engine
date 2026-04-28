@@ -25,8 +25,12 @@ AI content generation pipeline. Manages persona design, image generation, LoRA t
 ## Setup
 
 1. Clone repo on each machine
-2. `cp .env.example .env` and fill in API keys
-3. See `/scripts/setup.md` for ComfyUI install instructions
+2. Set up your environment variables:
+   - Run `cp .env.example .env` — this creates a local `.env` file from the template
+   - `.env` holds your real API keys (Replicate, fal.ai, etc.) and is **never committed to git** (it's in `.gitignore`) to keep credentials private
+   - Open `.env` and fill in each value — see comments in the file for what each key is for
+   - `.env.example` stays in the repo as a reference so anyone setting up the project knows which variables are needed
+3. See `/scripts/setup.md` for ComfyUI install instructions (M1 MacBook Pro)
 
 ## Workflow
 
